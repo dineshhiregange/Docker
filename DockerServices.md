@@ -6,7 +6,7 @@ Create nginx service with a name
   
     $ docker service create --name my_web nginx
     
-List services:
+List services
 
     $ docker service ls
 
